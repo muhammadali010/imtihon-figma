@@ -1,0 +1,275 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.navbar1{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #e6e6e6;
+    padding: 28px;
+}
+a{
+    text-decoration: none;
+}
+.text{
+    margin-top: 20px;
+    display: flex;
+    gap: 44px;
+    grid-auto-columns: auto auto auto auto auto auto;
+    justify-content: center;
+    cursor: pointer;
+    color: #726e8d;
+}
+
+.Avion{
+    display: flex;
+    gap: 16px;
+}
+
+.background{
+    background-image: url(https://fastly.picsum.photos/id/866/1440/704.jpg?hmac=eDd3BSGRVkKI5vEROdkd8reEKP5X6rWzuooJuUrnKqo);
+    border: 2px solid rgb(255, 255, 255);
+    width: 1440px;
+    height: 704px;
+    margin-top: 20px
+}
+
+.ichi{
+    margin: 730px;
+    margin-top: 130px;
+
+    width: 630px;
+    height: 444px;
+    background-color: #fff;
+}
+
+.ichi2{
+    margin-top: 48px;
+    margin-left: 56px;
+
+    width: 513px;
+    height: 137px;
+}
+
+.smalltext{
+    margin-top: 20px;
+    color: #726e8d;
+}
+
+.button1{
+    margin-top: 157px;
+}
+
+.ortasi{
+    margin-top: 80px;
+    margin-left: 529px;
+}
+
+.big{
+   
+    width: 1440px;
+    height: 476px;
+}
+
+.cards{
+    background-color: #f9f9f9;
+
+    width: 209px;
+    height: 149px;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+
+.cards2 {
+    background-color: #f9f9f9;
+    width: 305px;
+    height: 244px;
+    margin-top: 36px;
+
+}
+
+.ttt{
+    color: #2a254b;
+    margin-top: 12px;
+}
+
+.kkk{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.images{
+   
+    width: 1440px;
+    height: 634px;
+    gap: 20px;
+}
+
+.images2{
+    
+    width: 305px;
+    height: 462px;
+
+}
+
+.mmm{
+    gap: 24px;
+    margin-top: 28px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.widthh{
+    margin-top: 24px;
+}
+
+.ee {
+    margin-top: 8px;
+}
+.but2{
+    font-size: 16px;
+    width: 170px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    padding-top: 12px;
+    padding-left: 2px;
+    justify-content: center;
+    background-color: #f9f9f9;
+    margin-top: 48px;
+    margin-left: 550px;
+}
+
+.but2 :hover {
+    padding: 16px 34px 16px 34px;
+    background-color: pink;
+}
+
+.siyox {
+    width: 634px;
+    height: 478px;
+    background-color: #2A254B;
+
+}
+
+.yozuvv{
+    width: 495px;
+    height: 99px;
+    box-sizing: border-box;
+    padding-left: 64px;
+    padding-right: 72px;
+    padding-top: 64px;
+}
+
+.kotta {
+    font-size: 32px;
+    color: white;
+}
+
+.kichik {
+    font-size: 18px;
+    color: white;
+}
+
+.but3 {
+    font-size: 16px;
+    width: 170px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    padding-top: 12px;
+    padding-left: 2px;
+    justify-content: center;
+    background-color: #3f3873;
+    margin-top: 157px;
+    color: white;
+}
+
+.bilmadim {
+    display: flex;
+    gap: 16px;
+    margin-top: 60px;
+}
+
+.dashed {
+    border-bottom: 1px dashed gray;
+    margin-top: 40px;
+}
+.bg-img{
+background-image: url(https://fastly.picsum.photos/id/417/1440/444.jpg?blur=5&hmac=gjj5DKJfg815Bcv80H4zrW1w95CCMTrO4pkEM6EVSKA);
+height: 444px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.bbb{
+text-align: center;
+line-height: 45px;
+}
+.bbb-h1{
+font-size: 18px;}
+.bbb-div{
+    box-sizing: border-box;
+    padding-top: 59px;
+font-size: 32px;
+}
+.bbb-div2{
+    display: flex;
+    gap: 36px;
+    padding-left: 445px;
+}
+.inpp1{
+width: 354px;
+height: 56px;
+background-color: #f9f9f9;
+}
+.inpp2{
+text-align: center;
+width: 118px;
+height: 56px;
+background-color: #2A254B;
+}
+.inpp{
+display: flex;
+margin-left: 410px;
+}
+.finaly{
+    justify-content: space-around;
+   gap: none;
+    height: 380px;
+    background-color:#2a254b;
+}
+.text-white{
+font-size: 14px;
+}
+.inpp3{
+    width: 509px;
+    height: 56px;
+    background-color: #4a4666;
+    }
+    .inpp5{
+        text-align: center;
+        width: 118px;
+        height: 56px;
+        background-color: #f9f9f9;
+        }
+        .ushaa{
+        display: flex;
+        box-sizing: border-box;
+        padding: 58px;
+          width: 1440px;
+        justify-content: space-around;
+        }
+        .left{
+        display: flex;
+        gap: 130px;
+        
+        
+        }
+        .finalyy{
+        background-color: #2A254B;
+        }
+        .cap{
+        padding: 24px 80px;
+        }
